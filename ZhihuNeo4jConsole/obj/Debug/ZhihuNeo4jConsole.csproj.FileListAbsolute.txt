@@ -1,0 +1,10 @@
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuNeo4jConsole\ZhihuNeo4jConsole\bin\Debug\ZhihuNeo4jConsole.exe.config
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuNeo4jConsole\ZhihuNeo4jConsole\bin\Debug\ZhihuNeo4jConsole.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuNeo4jConsole\ZhihuNeo4jConsole\bin\Debug\ZhihuNeo4jConsole.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuNeo4jConsole\ZhihuNeo4jConsole\bin\Debug\Neo4j.Driver.dll
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuNeo4jConsole\ZhihuNeo4jConsole\obj\Debug\ZhihuNeo4jConsole.csprojResolveAssemblyReference.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuNeo4jConsole\ZhihuNeo4jConsole\obj\Debug\ZhihuNeo4jConsole.csproj.CoreCompileInputs.cache
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuNeo4jConsole\ZhihuNeo4jConsole\obj\Debug\ZhihuNeo4jConsole.exe
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuNeo4jConsole\ZhihuNeo4jConsole\obj\Debug\ZhihuNeo4jConsole.pdb
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuNeo4jConsole\ZhihuNeo4jConsole\bin\Debug\MySql.Data.dll
+C:\Users\JC\Documents\Visual Studio 2017\Projects\ZhihuNeo4jConsole\ZhihuNeo4jConsole\bin\Debug\MySql.Data.xml
