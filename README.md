@@ -8,6 +8,6 @@
 =
     Inspired by https://zhuanlan.zhihu.com/p/20546546
 
-![image](https://github.com/SCUTJcfeng/ZhihuNeo4jConsole/graph0.png)
+![image](https://github.com/SCUTJcfeng/ZhihuNeo4jConsole/blob/master/graph0.png)
 
-![image](https://github.com/SCUTJcfeng/ZhihuNeo4jConsole/graph1.png)
+![image](https://github.com/SCUTJcfeng/ZhihuNeo4jConsole/blob/master/graph1.png)
